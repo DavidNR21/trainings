@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background: url(../site/Beautiful-space.jpg);
+    background-size: cover;
+}
+/*----------------------navbar------------------*/
+
+.navbar{
+    /*border: 2px solid red;*/
+    display: flex;
+    margin-left: 3%;
+    padding: 20px;
+    align-items: center;
+    flex-direction: row;
+}
+
+.navbar-logo{
+    flex: 20%;
+    /*border: 2px solid blue;*/
+    padding: 20px;
+    text-align: center;
+}
+
+
+.logo{
+    font-size: 31px;
+    letter-spacing: 2px;
+    color: #388cad;
+}
+
+.navbar-lista{
+    flex: 80%;
+    /*border: 2px solid green;*/
+    padding: 20px;
+    text-align: right;
+}
+
+.list{
+    /*border: 2px solid yellow;*/
+    padding: 20px 15px;
+    display: relative;
+}
+
+.list a{
+    margin: 15px;
+    text-decoration: none;
+    padding: 10px 14px;
+    letter-spacing: 3px;
+    font-size: 22px;
+    color: #388cad;
+
+}
+
+.list a:hover{
+    color: #fff;
+    border-radius: 25px;
+    background: linear-gradient(to right, #db1bf6, #19d7f8);
+}
+
+/*-------------section-intro---------------*/
+
+.intro{
+    margin-top: 10px;
+    /*border: 2px solid red;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
+
+.intro-div{
+    margin-top: 2%;
+    /*border: 2px solid blue;*/
+    padding: 30px;
+    text-align: center;
+    
+}
+
+.intro-name{
+    font-size: 52px;
+    color: #276881;
+}
+
+.butt{
+    /*border: 2px solid green;*/
+    padding: 20px;
+    margin-top: 5%;
+    text-align: center;
+    justify-content: center;
+}
+
+#btn{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight: 500;
+    letter-spacing: 2px;
+    border-radius: 40px;
+    padding: 10px 30px;
+    background: linear-gradient(to right, #db1bf6, #19d7f8);
+}
+
+/*---------------------------section-info------------------------------*/
+
+.info{
+    flex-flow: column;
+    display: flex;
+    margin-top: 50px;
+    /*border: 2px solid blue;*/
+}
+
+.info-div{
+    flex: 50%;
+    /*border: 2px solid yellow;*/
+    align-items: center;
+}
+
+.info-name{
+    margin-top: 45px;
+    font-size: 29px;
+    letter-spacing: 2px;
+    color: #388cad;
+}
+
+.info-p{
+    margin-top: 20px;
+    text-align: left;
+    margin-right: 5px;
+    color: #388cad;
+    margin-left: 10px;
+    font-size: 22px;
+}
