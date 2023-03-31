@@ -1,313 +1,521 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/bein.com.xml.gz, https://iptv-org.github.io/epg/guides/ar/i24news.tv.xml.gz, https://iptv-org.github.io/epg/guides/ar/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/az/tv.mail.ru.xml.gz, https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml.gz, https://iptv-org.github.io/epg/guides/bg/tvprofil.com.xml.gz, https://iptv-org.github.io/epg/guides/bn/sky.com.xml.gz, https://iptv-org.github.io/epg/guides/bs/mtel.ba.xml.gz, https://iptv-org.github.io/epg/guides/ca/andorradifusio.ad.xml.gz, https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml.gz, https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml.gz, https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml.gz, https://iptv-org.github.io/epg/guides/de/magentatv.at.xml.gz, https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/de/tvheute.at.xml.gz, https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml.gz, https://iptv-org.github.io/epg/guides/el/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/en/abc.net.au.xml.gz, https://iptv-org.github.io/epg/guides/en/arianaafgtv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/arianatelevision.com.xml.gz, https://iptv-org.github.io/epg/guides/en/bein.com.xml.gz, https://iptv-org.github.io/epg/guides/en/bt.com.xml.gz, https://iptv-org.github.io/epg/guides/en/directv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/dishtv.in.xml.gz, https://iptv-org.github.io/epg/guides/en/dstv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml.gz, https://iptv-org.github.io/epg/guides/en/flixed.io.xml.gz, https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml.gz, https://iptv-org.github.io/epg/guides/en/m.tv.sms.cz.xml.gz, https://iptv-org.github.io/epg/guides/en/melita.com.xml.gz, https://iptv-org.github.io/epg/guides/en/mewatch.sg.xml.gz, https://iptv-org.github.io/epg/guides/en/mytvsuper.com.xml.gz, https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml.gz, https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz, https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz, https://iptv-org.github.io/epg/guides/en/rev.bs.xml.gz, https://iptv-org.github.io/epg/guides/en/singtel.com.xml.gz, https://iptv-org.github.io/epg/guides/en/sky.com.xml.gz, https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml.gz, https://iptv-org.github.io/epg/guides/en/startimestv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/tapdmv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/en/tv.post.lu.xml.gz, https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz, https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml.gz, https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml.gz, https://iptv-org.github.io/epg/guides/en/watchyour.tv.xml.gz, https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz, https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml.gz, https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml.gz, https://iptv-org.github.io/epg/guides/es/compulms.com.xml.gz, https://iptv-org.github.io/epg/guides/es/comteco.com.bo.xml.gz, https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml.gz, https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml.gz, https://iptv-org.github.io/epg/guides/es/directv.com.xml.gz, https://iptv-org.github.io/epg/guides/es/flixed.io.xml.gz, https://iptv-org.github.io/epg/guides/es/gatotv.com.xml.gz, https://iptv-org.github.io/epg/guides/es/mi.tv.xml.gz, https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml.gz, https://iptv-org.github.io/epg/guides/es/ontvtonight.com.xml.gz, https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml.gz, https://iptv-org.github.io/epg/guides/es/reportv.com.ar.xml.gz, https://iptv-org.github.io/epg/guides/es/siba.com.co.xml.gz, https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml.gz, https://iptv-org.github.io/epg/guides/es/tvpassport.com.xml.gz, https://iptv-org.github.io/epg/guides/et/teliatv.ee.xml.gz, https://iptv-org.github.io/epg/guides/fi/telkku.com.xml.gz, https://iptv-org.github.io/epg/guides/fi/telsu.fi.xml.gz, https://iptv-org.github.io/epg/guides/fo/kvf.fo.xml.gz, https://iptv-org.github.io/epg/guides/fr/canalplus-caraibes.com.xml.gz, https://iptv-org.github.io/epg/guides/fr/canalplus.com.xml.gz, https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.xml.gz, https://iptv-org.github.io/epg/guides/fr/mon-programme-tv.be.xml.gz, https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml.gz, https://iptv-org.github.io/epg/guides/fr/programme-tv.vini.pf.xml.gz, https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.xml.gz, https://iptv-org.github.io/epg/guides/fr/telenet.tv.xml.gz, https://iptv-org.github.io/epg/guides/fr/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/fr/tvhebdo.com.xml.gz, https://iptv-org.github.io/epg/guides/hi/sky.com.xml.gz, https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.xml.gz, https://iptv-org.github.io/epg/guides/hr/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml.gz, https://iptv-org.github.io/epg/guides/hu/musor.tv.xml.gz, https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml.gz, https://iptv-org.github.io/epg/guides/id/indihometv.com.xml.gz, https://iptv-org.github.io/epg/guides/id/mncvision.id.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.xml.gz, https://iptv-org.github.io/epg/guides/is/ruv.is.xml.gz, https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml.gz, https://iptv-org.github.io/epg/guides/it/superguidatv.it.xml.gz, https://iptv-org.github.io/epg/guides/it/tivu.tv.xml.gz, https://iptv-org.github.io/epg/guides/it/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml.gz, https://iptv-org.github.io/epg/guides/ka/magticom.ge.xml.gz, https://iptv-org.github.io/epg/guides/ko/wavve.com.xml.gz, https://iptv-org.github.io/epg/guides/ku/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/lb/tv.post.lu.xml.gz, https://iptv-org.github.io/epg/guides/lt/cgates.lt.xml.gz, https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.xml.gz, https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml.gz, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml.gz, https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/my/unifi.com.my.xml.gz, https://iptv-org.github.io/epg/guides/nl/delta.nl.xml.gz, https://iptv-org.github.io/epg/guides/nl/telenet.tv.xml.gz, https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.xml.gz, https://iptv-org.github.io/epg/guides/no/allente.se.xml.gz, https://iptv-org.github.io/epg/guides/no/frikanalen.no.xml.gz, https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml.gz, https://iptv-org.github.io/epg/guides/pt/meo.pt.xml.gz, https://iptv-org.github.io/epg/guides/pt/mi.tv.xml.gz, https://iptv-org.github.io/epg/guides/pt/nos.pt.xml.gz, https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml.gz, https://iptv-org.github.io/epg/guides/ro/programetv.ro.xml.gz, https://iptv-org.github.io/epg/guides/ru/9tv.co.il.xml.gz, https://iptv-org.github.io/epg/guides/ru/magticom.ge.xml.gz, https://iptv-org.github.io/epg/guides/ru/teliatv.ee.xml.gz, https://iptv-org.github.io/epg/guides/ru/tv.mail.ru.xml.gz, https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml.gz, https://iptv-org.github.io/epg/guides/sk/horizon.tv.xml.gz, https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml.gz, https://iptv-org.github.io/epg/guides/sq/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/sr/mts.rs.xml.gz, https://iptv-org.github.io/epg/guides/sv/tv.nu.xml.gz, https://iptv-org.github.io/epg/guides/sv/tv24.se.xml.gz, https://iptv-org.github.io/epg/guides/th/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml.gz, https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml.gz, https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.xml.gz, https://iptv-org.github.io/epg/guides/tr/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml.gz, https://iptv-org.github.io/epg/guides/tr/ziggogo.tv.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ANAPOLIS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA ANAPOLIS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/243
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ANAPOLIS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA ANAPOLIS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/244
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA CATALAO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA CATALAO FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/245
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA CATALAO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA CATALAO HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/246
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ITUMBIARA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA ITUMBIARA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/247
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ITUMBIARA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA ITUMBIARA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/248
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BAHIA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/249
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BAHIA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/250
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BAHIA SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/251
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BELEM FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/252
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BELEM HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/253
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BELEM SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/254
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BOA VISTA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/255
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BOA VISTA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/256
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BOA VISTA SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/257
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BRASILIA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/258
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO BRASILIA FHD (H265)
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/259
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BRASILIA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/260
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BRASILIA SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/261
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV CAMPINAS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/262
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV CAMPINAS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/263
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV CAMPINAS SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/264
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV RIBEIRÃO PRETO FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/265
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV RIBEIRÃO PRETO HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/266
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/267
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV SAO CARLOS SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/268
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV SUL DE MINAS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/269
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV SUL DE MINAS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/270
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO FLORIANOPOLIS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/271
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO FLORIANOPOLIS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/272
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO FLORIANOPOLIS SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/273
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA  ES HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO GAZETA VITORIA  ES HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/274
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA  ES SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO GAZETA VITORIA  ES SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/275
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA ES FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO GAZETA VITORIA ES FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/276
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/277
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO DIVINÓPOLIS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTEGRAÇÃO DIVINÓPOLIS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/278
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTEGRAÇÃO MG FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/279
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTEGRAÇÃO MG HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/280
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV ALTO LITORAL HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/281
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV ALTO LITORAL SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/282
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV CABUGI FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/283
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV CABUGI HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/284
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV CABUGI SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/285
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV DOS VALES HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/286
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV GRANDE MINAS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/287
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV SERRA MAR FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/288
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV SERRA MAR HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/289
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER VALE MG FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/290
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER VALE MG HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/291
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOAÇABA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JOAÇABA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/292
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOAÇABA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JOAÇABA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/293
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUAZEIRO BAHIA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JUAZEIRO BAHIA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/294
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUAZEIRO BAHIA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JUAZEIRO BAHIA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/295
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JUIZ DE FORA MG FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/296
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JUIZ DE FORA MG HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/297
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JUIZ DE FORA MG SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/298
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MARANHÃO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MARANHÃO HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/299
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MINAS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/300
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO MINAS FHD (H265)
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/301
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MINAS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/302
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MINAS SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/303
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MOGI DAS CRUZES FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MOGI DAS CRUZES FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/304
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MOGI DAS CRUZES HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MOGI DAS CRUZES HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/305
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MONTES CLAROS MG FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MONTES CLAROS MG FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/306
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MONTES CLAROS MG HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MONTES CLAROS MG HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/307
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NEWS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/308
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO NEWS FHD (H265)
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/309
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NEWS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/310
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NEWS SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/311
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NORDESTE FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/312
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NORDESTE HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/313
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NORDESTE SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/314
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC SANTA CATARINA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC SANTA CATARINA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/315
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV BLUMENAU FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/316
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAL SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV BLUMENAL SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/317
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV BLUMENAU HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/318
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV CHAPECO FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/319
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV CHAPECO HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/320
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV CHAPECO SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/321
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CRICIUMA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV CRICIUMA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/322
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV JOINVILLE FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/323
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV JOINVILLE HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/324
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PARAIBA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO PARAIBA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/325
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRUDENTE SP FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO PRESIDENTE PRUDENTE SP FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/326
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRUDENTE SP HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO PRESIDENTE PRUDENTE SP HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/327
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS PORTO ALEGRE FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/328
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS PORTO ALEGRE FHD (H265)
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/329
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS PORTO ALEGRE HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/330
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS PORTO ALEGRE SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/331
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV CAXIAS DO SUL FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/332
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/333
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV CAXIAS DO SUL SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/334
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PASSO FUNDO FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/335
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PASSO FUNDO HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/336
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PASSO FUNDO SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/337
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PELOTAS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/338
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PELOTAS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/339
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PELOTAS SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/340
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV SANTA MARIA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV SANTA MARIA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/341
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV SANTA MARIA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV SANTA MARIA SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/342
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RECIFE HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/343
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RECIFE SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/344
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RJ FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/345
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO RJ FHD (H265)
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/346
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RJ HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/347
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RJ SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/348
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC  TV MARINGA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC  TV MARINGA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/349
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CASCAVEL FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC CASCAVEL FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/350
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CASCAVEL HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC CASCAVEL HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/351
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC CURITIBA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/352
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC CURITIBA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/353
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC CURITIBA SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/354
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC FOZ DO IGUACU FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/355
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC FOZ DO IGUACU HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/356
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAVAI FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC PARANAVAI FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/357
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC PARANAVAI HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/358
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PONTA GROSSA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC PONTA GROSSA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/359
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV MARINGA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC TV MARINGA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/360
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SERGIPE FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/361
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SERGIPE HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/362
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SJRP HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/363
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SJRP SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/364
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SP FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/365
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO SP FHD (H265)
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/366
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SP HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/367
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SP SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/368
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV ANHANGUERA GOIANIA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/369
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV ANHANGUERA GOIANIA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/370
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV ANHANGUERA GOIANIA SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/371
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV ASA BRANCA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/372
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV ASA BRANCA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/373
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CABO BRANCO FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/374
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CABO BRANCO HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/375
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CENTRO AMERICA CUIABA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/376
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CENTRO AMERICA CUIABA SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/377
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CENTRO AMERICA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/378
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CLUBE TERESINA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/379
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CLUBE TERESINA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/380
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CLUBE TERESINA SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/381
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO FORTALEZA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV DIARIO FORTALEZA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/382
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO FORTALEZA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV DIARIO FORTALEZA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/383
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV GAZETA DE ALAGOAS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/384
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV GAZETA DE ALAGOAS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/385
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV GAZETA DE ALAGOAS SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/386
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV GAZETA SUL ES FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/387
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV GAZETA SUL ES HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/388
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO ARAXA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV INTEGRACAO ARAXA FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/389
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO ARAXA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV INTEGRACAO ARAXA HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/390
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE COCAIS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/391
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE COCAIS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/392
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE COCAIS SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/393
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE SAO LUIS FHD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/394
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE SAO LUIS HD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/395
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE SAO LUIS SD
-http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/396
+#EXTINF:-1 tvg-id="" tvg-name="As Loucas Aventuras de James West (1999)" tvg-logo="http://4f.rs:80/images/b90b1607286b00498c99d5fd64105476.jpg" group-title="FILMES | AÇÃO E AVENTURA",As Loucas Aventuras de James West (1999)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Loucuras de Dick & Jane (2005)" tvg-logo="http://4f.rs:80/images/3c801cfe715fa722a9eb8dcd187d63de.jpg" group-title="FILMES | COMEDIA",As Loucuras de Dick & Jane (2005)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Mais Incríveis Aventuras de Pernalonga e Sua Turma (1979)" tvg-logo="http://4f.rs:80/images/2ff814188ed563a85ffff797976678a9.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",As Mais Incríveis Aventuras de Pernalonga e Sua Turma (1979)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Melhores Coisas do Mundo (2010)" tvg-logo="http://4f.rs:80/images/9845f1b0a9ed4fcc2839434ffcc304cb.jpg" group-title="FILMES | NACIONAL",As Melhores Coisas do Mundo (2010)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Melhores Músicas Gospel Mais Tocadas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SHOWS | GOSPEL",As Melhores Músicas Gospel Mais Tocadas
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Melhores Músicas Gospel Mais Tocadas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SHOWS | GOSPEL",As Melhores Músicas Gospel Mais Tocadas
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Memórias de Marnie (2014)" tvg-logo="http://4f.rs:80/images/670b7801d3cf5bc57979650efd14bbc0.jpg" group-title="FILMES | ANIMES",As Memórias de Marnie (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas: O Filme (2002)" tvg-logo="http://4f.rs:80/images/59d6969308652709b3955853d2d54fc3.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",As Meninas Superpoderosas: O Filme (2002)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Metas de Jessica Darling (2016)" tvg-logo="http://4f.rs:80/images/b7aa95ffd10940f8e0252a9613c4fc51.jpg" group-title="FILMES | COMEDIA",As Metas de Jessica Darling (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Mil Palavras (2012)" tvg-logo="http://4f.rs:80/images/4225a7e3c66e3620cafe6e61b8204254.jpg" group-title="FILMES | COMEDIA",As Mil Palavras (2012)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Mortes de Dick Johnson (2020)" tvg-logo="http://4f.rs:80/images/7c644c24535e7b92968ee1a6c1183361.jpg" group-title="FILMES | DOCUMENTARIOS",As Mortes de Dick Johnson (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Muitas Aventuras do Ursinho Puff (1977)" tvg-logo="http://4f.rs:80/images/b977607f7e118596668fb9819fa91ca1.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",As Muitas Aventuras do Ursinho Puff (1977)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Mães de Chico Xavier (2011)" tvg-logo="http://4f.rs:80/images/8fb1e02ee4551c88aae167e5d092104a.jpg" group-title="FILMES | NACIONAL",As Mães de Chico Xavier (2011)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Nadadoras (2022)" tvg-logo="http://4f.rs:80/images/d9254d90425dac524a8372846fa04654.jpg" group-title="FILMES | LANÇAMENTOS",As Nadadoras (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras do Fusca (1974)" tvg-logo="http://4f.rs:80/images/9412a841a7820150f166e2e72ad85b26.jpg" group-title="FILMES | COMEDIA",As Novas Aventuras do Fusca (1974)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Panteras (2019)" tvg-logo="http://4f.rs:80/images/54993e54f5b62b61cc16d63d37b7fb60.jpg" group-title="FILMES | COMEDIA",As Panteras (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Panteras: Detonando (2003)" tvg-logo="http://4f.rs:80/images/e035803fa64298d6e99392e94baf7aac.jpg" group-title="FILMES | AÇÃO E AVENTURA",As Panteras: Detonando (2003)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Passageiras (2021)" tvg-logo="http://4f.rs:80/images/6411dea8047151917754f77f4dc9a092.jpg" group-title="FILMES | LEGENDADOS",As Passageiras (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Passageiras (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3DUvDoBOiaCXKw1JX09USlfXjkM.jpg" group-title="FILMES | SUSPENSE",As Passageiras (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Patricinhas de Beverly Hills (1995)" tvg-logo="http://4f.rs:80/images/eaf6696af15815509aef79b03631c771.jpg" group-title="FILMES | NOSTALGIA - CLÁSSICOS",As Patricinhas de Beverly Hills (1995)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Patricinhas de Beverly Hills (1995)" tvg-logo="http://4f.rs:80/images/eaf6696af15815509aef79b03631c771.jpg" group-title="FILMES | COMEDIA",As Patricinhas de Beverly Hills (1995)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Peripécias de um Ratinho Detetive (1986)" tvg-logo="http://4f.rs:80/images/0885d33beeafefa9831d66e249af303f.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",As Peripécias de um Ratinho Detetive (1986)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Peripécias de um Ratinho Detetive (1986)" tvg-logo="http://4f.rs:80/images/0885d33beeafefa9831d66e249af303f.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",As Peripécias de um Ratinho Detetive (1986)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Rainhas da Torcida (2019)" tvg-logo="http://4f.rs:80/images/6562b9d3deb75f9cb8844dd3b84d2471.jpg" group-title="FILMES | COMEDIA",As Rainhas da Torcida (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Ruínas (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yZg6812ZI9MXWUI4NQMb1JyRYpk.jpg" group-title="FILMES | TERROR",As Ruínas (2008)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja (2014)" tvg-logo="http://4f.rs:80/images/ba50d3600018c65e1fde20d0504762e5.jpg" group-title="FILMES | MARVEL - DC - HEROIS",As Tartarugas Ninja (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja (1990)" tvg-logo="http://4f.rs:80/images/ab3dd5ae65ecc9a3fb0e24003f26c220.jpg" group-title="FILMES | COLETÂNEAS",As Tartarugas Ninja (1990)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja II: O Segredo do Ooze (1991)" tvg-logo="http://4f.rs:80/images/25d1ab523ced9eabce1769589abfc947.jpg" group-title="FILMES | NOSTALGIA - CLÁSSICOS",As Tartarugas Ninja II: O Segredo do Ooze (1991)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja II: O Segredo do Ooze (1991)" tvg-logo="http://4f.rs:80/images/25d1ab523ced9eabce1769589abfc947.jpg" group-title="FILMES | COLETÂNEAS",As Tartarugas Ninja II: O Segredo do Ooze (1991)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja III (1993)" tvg-logo="http://4f.rs:80/images/f5047ad5cfc656cd1489daddab7f2b33.jpg" group-title="FILMES | NOSTALGIA - CLÁSSICOS",As Tartarugas Ninja III (1993)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja III (1993)" tvg-logo="http://4f.rs:80/images/f5047ad5cfc656cd1489daddab7f2b33.jpg" group-title="FILMES | COLETÂNEAS",As Tartarugas Ninja III (1993)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja: Fora das Sombras (2016)" tvg-logo="http://4f.rs:80/images/e6ac480900bf43f38f954637c4ec9910.jpg" group-title="FILMES | MARVEL - DC - HEROIS",As Tartarugas Ninja: Fora das Sombras (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As the Gods Will (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vzYVwIkmHyHkH6kvqTZscslqEfP.jpg" group-title="FILMES | TERROR",As the Gods Will (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Trambiqueiras (2021)" tvg-logo="http://4f.rs:80/images/74c72e38cf934c9362bef8a7fe9a3ba6.jpg" group-title="FILMES | LEGENDADOS",As Trambiqueiras (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Trambiqueiras (2021)" tvg-logo="http://4f.rs:80/images/74c72e38cf934c9362bef8a7fe9a3ba6.jpg" group-title="FILMES | COMEDIA",As Trambiqueiras (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Trapaceiras (2019)" tvg-logo="http://4f.rs:80/images/ea8c82c724c236ae55fa5e1aa02ee8e7.jpg" group-title="FILMES | COMEDIA",As Trapaceiras (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Três Mortes de Marisela (2020)" tvg-logo="http://4f.rs:80/images/06f3461dbff2bee5f7484bceb80c6ef2.jpg" group-title="FILMES | DOCUMENTARIOS",As Três Mortes de Marisela (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Verdadeiras Aventuras do Menino Lobo (2019)" tvg-logo="http://4f.rs:80/images/4472794d642af8cf7b58bac06703edec.jpg" group-title="FILMES | AÇÃO E AVENTURA",As Verdadeiras Aventuras do Menino Lobo (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Verdades (2022)" tvg-logo="http://4f.rs:80/images/098c1385f427238096f82887edea52d1.jpg" group-title="FILMES | LANÇAMENTOS",As Verdades (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Viagens de Gulliver (2010)" tvg-logo="http://4f.rs:80/images/f35e14e7d549066ea6281ec0e8fb67fd.jpg" group-title="FILMES | COMEDIA",As Viagens de Gulliver (2010)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Viúvas (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lTql8KyJYqcX49Lmdct7PMCgg63.jpg" group-title="FILMES | SUSPENSE",As Viúvas (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Vozes (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/loPVim3CabZEBL0yjalsJttmYpW.jpg" group-title="FILMES | COMEDIA",As Vozes (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ascensão do Cisne Negro (2021)" tvg-logo="http://4f.rs:80/images/77678f4aaa284f09ed6fb9ba82913c5d.jpg" group-title="FILMES | AÇÃO E AVENTURA",Ascensão do Cisne Negro (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ascensão do Cisne Negro (2021)" tvg-logo="http://4f.rs:80/images/77678f4aaa284f09ed6fb9ba82913c5d.jpg" group-title="FILMES | LEGENDADOS",Ascensão do Cisne Negro (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asfalto de Sangue (2018)" tvg-logo="http://4f.rs:80/images/35185b0c34f294488cf6279b5cfa6c43.jpg" group-title="FILMES | AÇÃO E AVENTURA",Asfalto de Sangue (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asilo do Medo (2018)" tvg-logo="http://4f.rs:80/images/a8e1e96209032bc5da991d87c8ba5d64.jpg" group-title="FILMES | TERROR",Asilo do Medo (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asking For It (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ro3yvVbzT2zI2KrHWBA81a2x5iR.jpg" group-title="FILMES | LANÇAMENTOS",Asking For It (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asking For It (L) (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ro3yvVbzT2zI2KrHWBA81a2x5iR.jpg" group-title="FILMES | LEGENDADOS",Asking For It (L) (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto ao Banco Central (2011)" tvg-logo="http://4f.rs:80/images/deb68c1621ae9443f40d28d8e8075c52.jpg" group-title="FILMES | NACIONAL",Assalto ao Banco Central (2011)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto ao Banco da Espanha (2021)" tvg-logo="http://4f.rs:80/images/fb9cd8ef20a24906e658c9be50006f9a.jpg" group-title="FILMES | LEGENDADOS",Assalto ao Banco da Espanha (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto ao Banco da Espanha (2021)" tvg-logo="http://4f.rs:80/images/fb9cd8ef20a24906e658c9be50006f9a.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assalto ao Banco da Espanha (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto ao Carro Blindado (2009)" tvg-logo="http://4f.rs:80/images/b23b7a0aafd1237abfaba5698272b7ae.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assalto ao Carro Blindado (2009)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto ao Poder (2016)" tvg-logo="http://4f.rs:80/images/202a3869e2b096d50ee0c499bcd4dbd5.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assalto ao Poder (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto Aéreo (2020)" tvg-logo="http://4f.rs:80/images/658d5891dedab82f7735de8e7429373f.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assalto Aéreo (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto em Dose Dupla (2011)" tvg-logo="http://4f.rs:80/images/2a1b2a0b9db5044f01a9929c1e3dc713.jpg" group-title="FILMES | CRIME",Assalto em Dose Dupla (2011)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto sobre Trilhos (1995)" tvg-logo="http://4f.rs:80/images/11a741f83847474ab43c6d07ed3aa097.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assalto sobre Trilhos (1995)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassin's Creed (2016)" tvg-logo="http://4f.rs:80/images/75acbb288cf9694ccc59a437810d10fd.jpg" group-title="FILMES | FICÇÃO E FANTASIA",Assassin's Creed (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinas (2021)" tvg-logo="http://4f.rs:80/images/060f8a05a3b54fe72f6f8bae886c2e9b.jpg" group-title="FILMES | DOCUMENTARIOS",Assassinas (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinas (2021)" tvg-logo="http://4f.rs:80/images/060f8a05a3b54fe72f6f8bae886c2e9b.jpg" group-title="FILMES | MARVEL - DC - HEROIS",Assassinas (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato Em 4 Atos (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pfvmWvYXu2GWKs6VgEtSoyjG1Fv.jpg" group-title="FILMES | MISTÉRIO",Assassinato Em 4 Atos (2013)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato em Sparrow Creek (2019)" tvg-logo="http://4f.rs:80/images/27d6050b7745d2266d8f81cca669c5a2.jpg" group-title="FILMES | MISTÉRIO",Assassinato em Sparrow Creek (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato nas Profundezas (2020)" tvg-logo="http://4f.rs:80/images/98e483b0c55c37115afddd7b155973e7.jpg" group-title="FILMES | DOCUMENTARIOS",Assassinato nas Profundezas (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato no Expresso do Oriente (2017)" tvg-logo="http://4f.rs:80/images/5d8296ada2473bc6f75ce29edaecad08.jpg" group-title="FILMES | POLICIAL",Assassinato no Expresso do Oriente (2017)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato no Grupo de Mães (2018)" tvg-logo="http://4f.rs:80/images/54d7cddeb8fc2fa0eda3abbe25c65fb1.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assassinato no Grupo de Mães (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato Via Babá Eletrônica (2020)" tvg-logo="http://4f.rs:80/images/7473eaf3f8eba0457717d3df37b98010.jpg" group-title="FILMES | CRIME",Assassinato Via Babá Eletrônica (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinatos do Passado (2013)" tvg-logo="http://4f.rs:80/images/ad7c97e1b69061887d2377f1ba0cb2cd.jpg" group-title="FILMES | POLICIAL",Assassinatos do Passado (2013)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino a Preço Fixo (2011)" tvg-logo="http://4f.rs:80/images/b1bd72af81dfdfaba782eb7877921958.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assassino a Preço Fixo (2011)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino a Preço Fixo 2 - A Ressurreição (2016)" tvg-logo="http://4f.rs:80/images/4bb9678f48af604d415678e3187af4c9.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assassino a Preço Fixo 2 - A Ressurreição (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino Invisível (2014)" tvg-logo="http://4f.rs:80/images/e33ad51653518acd2d941fdc6d80786e.jpg" group-title="FILMES | TERROR",Assassino Invisível (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino Sem Rastro (2022)" tvg-logo="http://4f.rs:80/images/222f6d557b6c199e9fe78ef647ac8427.jpg" group-title="FILMES | LEGENDADOS",Assassino Sem Rastro (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino Sem Rastro (2022)" tvg-logo="http://4f.rs:80/images/222f6d557b6c199e9fe78ef647ac8427.jpg" group-title="FILMES | LANÇAMENTOS",Assassino Sem Rastro (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos 2014" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgBCxZivGRJbRpZfEyMy1TW2ep6r52TjHOVa6AO7i7ecUKyxnX" group-title="FILMES | AÇÃO E AVENTURA",Assassinos 2014
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos Anônimos (2019)" tvg-logo="http://4f.rs:80/images/8ea6adb3c782e5cd62d71a563a2c0234.jpg" group-title="FILMES | SUSPENSE",Assassinos Anônimos (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos de Aluguel (2012)" tvg-logo="http://4f.rs:80/images/ccf77be6a0d8c19f9f91631a826723b9.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assassinos de Aluguel (2012)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos Múltiplos (2017)" tvg-logo="http://4f.rs:80/images/a96f4f03ac64c25a2b152ff27dbe65b8.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assassinos Múltiplos (2017)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos por Natureza (1994)" tvg-logo="http://4f.rs:80/images/1345b63b16a896c50e3703021cbf138e.jpg" group-title="FILMES | POLICIAL",Assassinos por Natureza (1994)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos por Natureza (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oOhmt8V42JAQjYpgKae2wMyEMj1.jpg" group-title="FILMES | SUSPENSE",Assassinos por Natureza (1994)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos Substitutos (1998)" tvg-logo="http://4f.rs:80/images/de67bf59ee1547eaf8f9a4fa4ee5577a.jpg" group-title="FILMES | AÇÃO E AVENTURA",Assassinos Substitutos (1998)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos Sádicos (2020)" tvg-logo="http://4f.rs:80/images/31490c729cc68222d11f184733261a9c.jpg" group-title="FILMES | TERROR",Assassinos Sádicos (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos Sádicos (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg" group-title="FILMES | LEGENDADOS",Assassinos Sádicos (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos Sádicos (2020)" tvg-logo="http://4f.rs:80/images/31490c729cc68222d11f184733261a9c.jpg" group-title="FILMES | TERROR",Assassinos Sádicos (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assento Quente (2022)" tvg-logo="http://4f.rs:80/images/a38636c1ae675972fe9fc043cf1fe980.jpg" group-title="FILMES | LANÇAMENTOS",Assento Quente (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assim na Terra Como no Inferno (2014)" tvg-logo="http://4f.rs:80/images/fea18c63190b086de65d5fdc96dc734b.jpg" group-title="FILMES | TERROR",Assim na Terra Como no Inferno (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix & Obelix Contra César (1999)" tvg-logo="http://4f.rs:80/images/8d3faafd8c89ec85435af88acde19bc8.jpg" group-title="FILMES | COMEDIA",Asterix & Obelix Contra César (1999)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix & Obelix: Missão Cleópatra (2002)" tvg-logo="http://4f.rs:80/images/68dcfe92e01c9d3bc8db36623c854dc5.jpg" group-title="FILMES | COMEDIA",Asterix & Obelix: Missão Cleópatra (2002)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix Conquista a América (1994)" tvg-logo="http://4f.rs:80/images/f800f42594ebf309790b8cc24f90a039.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Asterix Conquista a América (1994)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix e o Domínio dos Deuses (2014)" tvg-logo="http://4f.rs:80/images/7753001c8988ffd299daaacc8f7ca0b9.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Asterix e o Domínio dos Deuses (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix e o Segredo da Poção Mágica (2018)" tvg-logo="http://4f.rs:80/images/73a441133effd507d92c53f2cfc7b6b2.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Asterix e o Segredo da Poção Mágica (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix nos Jogos Olímpicos (2008)" tvg-logo="http://4f.rs:80/images/aa06a05244807a6e763960f91cff780c.jpg" group-title="FILMES | FICÇÃO E FANTASIA",Asterix nos Jogos Olímpicos (2008)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Astro Kid (2019)" tvg-logo="http://4f.rs:80/images/c245fcdd30af7e0c831a83f56f75ecf7.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Astro Kid (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Astérix e Obélix: A Serviço de sua Majestade (2012)" tvg-logo="http://4f.rs:80/images/225f02e255b8665aeec6bd3832ec5332.jpg" group-title="FILMES | COMEDIA",Astérix e Obélix: A Serviço de sua Majestade (2012)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asylum: Twisted Horror & Fantasy Tales (2020)" tvg-logo="http://4f.rs:80/images/3c1be3126793868d8f2dd41778c7e561.jpg" group-title="FILMES | LEGENDADOS",Asylum: Twisted Horror & Fantasy Tales (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="At Midnight (2023)" tvg-logo="http://4f.rs:80/images/98259c28cffb77ad18a786adaa92a410.jpg" group-title="FILMES | LANÇAMENTOS",At Midnight (2023)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque dos Cães (2021)" tvg-logo="http://4f.rs:80/images/47b84abac6c07b2621a2583c26328ff5.jpg" group-title="FILMES | LEGENDADOS",Ataque dos Cães (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque dos Cães (2021)" tvg-logo="http://4f.rs:80/images/47b84abac6c07b2621a2583c26328ff5.jpg" group-title="FILMES | FAROESTE",Ataque dos Cães (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque dos Cães (2021)" tvg-logo="http://4f.rs:80/images/47b84abac6c07b2621a2583c26328ff5.jpg" group-title="FILMES | FAROESTE",Ataque dos Cães (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque dos Mortos-Vivos (2021)" tvg-logo="http://4f.rs:80/images/b0cdaa2041b2e47072463ef87b728218.jpg" group-title="FILMES | TERROR",Ataque dos Mortos-Vivos (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque dos Mortos-Vivos (2021)" tvg-logo="http://4f.rs:80/images/b0cdaa2041b2e47072463ef87b728218.jpg" group-title="FILMES | ANIMES",Ataque dos Mortos-Vivos (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque dos Mortos-Vivos (2021)" tvg-logo="http://4f.rs:80/images/b0cdaa2041b2e47072463ef87b728218.jpg" group-title="FILMES | ANIMES",Ataque dos Mortos-Vivos (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque dos Zumbis (2018)" tvg-logo="http://4f.rs:80/images/2c3f0845fa9e6eb8b16cc6c1b6f3bbd9.jpg" group-title="FILMES | FICÇÃO E FANTASIA",Ataque dos Zumbis (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque em VA-33 (2021)" tvg-logo="http://4f.rs:80/images/7cd554d848b23b302873fcb38af29dde.jpg" group-title="FILMES | LEGENDADOS",Ataque em VA-33 (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque Fatal (2019)" tvg-logo="http://4f.rs:80/images/8f1026da0e23ae4caad98e3982a59227.jpg" group-title="FILMES | AÇÃO E AVENTURA",Ataque Fatal (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ate que a Gente te Separe (2018)" tvg-logo="http://4f.rs:80/images/cfa881653a4aebf794ef685435115a53.jpg" group-title="FILMES | COMEDIA",Ate que a Gente te Separe (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atentado em Paris (2016)" tvg-logo="http://4f.rs:80/images/9955dbc532e13a56c6b82c8026ba2e4f.jpg" group-title="FILMES | AÇÃO E AVENTURA",Atentado em Paris (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atentados em Londres (2021)" tvg-logo="http://4f.rs:80/images/15244cec7a7bef78b68f903ec906864a.jpg" group-title="FILMES | DOCUMENTARIOS",Atentados em Londres (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aterro Maldito (2019)" tvg-logo="http://4f.rs:80/images/fe90e07e0c6ea197c927e0619594ee80.jpg" group-title="FILMES | MISTÉRIO",Aterro Maldito (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aterro Maldito (2019)" tvg-logo="http://4f.rs:80/images/fe90e07e0c6ea197c927e0619594ee80.jpg" group-title="FILMES | TERROR",Aterro Maldito (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aterrorizada (2010)" tvg-logo="http://4f.rs:80/images/2650860fa675508efb5ed92a8e97299b.jpg" group-title="FILMES | TERROR",Aterrorizada (2010)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aterrorizados (2018)" tvg-logo="http://4f.rs:80/images/80b131b488c47c7e7048e506422d8078.jpg" group-title="FILMES | TERROR",Aterrorizados (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aterrorizante (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qGcQyScUQveMFPHOQCjJaBpRsLa.jpg" group-title="FILMES | SUSPENSE",Aterrorizante (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aterrorizante (DUBLADO) (2016)" tvg-logo="http://4f.rs:80/images/a4f480f1db11c7b7675535ddf8675f63.jpg" group-title="FILMES | TERROR",Aterrorizante (DUBLADO) (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atirador (2007)" tvg-logo="http://4f.rs:80/images/25632f0c4d35045d0045b381fba04e58.jpg" group-title="FILMES | AÇÃO E AVENTURA",Atirador (2007)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atirador de Elite (1996)" tvg-logo="http://4f.rs:80/images/145384d7e9879499024bab4de65648c2.jpg" group-title="FILMES | AÇÃO E AVENTURA",Atirador de Elite (1996)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atire Para Viver e Reze Pelos Mortos (1971)" tvg-logo="http://4f.rs:80/images/a681a6221b03b347bfe5aee3bb018fe9.jpg" group-title="FILMES | FAROESTE",Atire Para Viver e Reze Pelos Mortos (1971)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal (2007)" tvg-logo="http://4f.rs:80/images/dd89ea1b59a90f872baf732cac41e8f2.jpg" group-title="FILMES | COLETÂNEAS",Atividade Paranormal (2007)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal 2 (2010)" tvg-logo="http://4f.rs:80/images/0ce486286127827d411b4298ffae211a.jpg" group-title="FILMES | COLETÂNEAS",Atividade Paranormal 2 (2010)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal 3 (2011)" tvg-logo="http://4f.rs:80/images/eaee03afcb77fa01ee7f92d3944574a0.jpg" group-title="FILMES | COLETÂNEAS",Atividade Paranormal 3 (2011)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal 4 (2012)" tvg-logo="http://4f.rs:80/images/1572b7e13bc4df3d12a3ec31d05f69a7.jpg" group-title="FILMES | COLETÂNEAS",Atividade Paranormal 4 (2012)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal: Dimensão Fantasma (2015)" tvg-logo="http://4f.rs:80/images/5fc0769eecd19df62ec36c8f9198f4ee.jpg" group-title="FILMES | COLETÂNEAS",Atividade Paranormal: Dimensão Fantasma (2015)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal: Ente Próximo (2021)" tvg-logo="http://4f.rs:80/images/8d6a05706017358ccabea17a843cbc19.jpg" group-title="FILMES | COLETÂNEAS",Atividade Paranormal: Ente Próximo (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal: Ente Próximo (2021)" tvg-logo="http://4f.rs:80/images/8d6a05706017358ccabea17a843cbc19.jpg" group-title="FILMES | LEGENDADOS",Atividade Paranormal: Ente Próximo (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal: Marcados Pelo Mal (2014)" tvg-logo="http://4f.rs:80/images/8884c060256fdd722bf39e828728c3f6.jpg" group-title="FILMES | COLETÂNEAS",Atividade Paranormal: Marcados Pelo Mal (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal: Tóquio (2010)" tvg-logo="http://4f.rs:80/images/b1b96bcfbf86032bac8bedeeaa5ff4fe.jpg" group-title="FILMES | COLETÂNEAS",Atividade Paranormal: Tóquio (2010)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atlantis: O Reino Perdido (2001)" tvg-logo="http://4f.rs:80/images/5b714fd63270a3383957d9bd0891a4ba.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Atlantis: O Reino Perdido (2001)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atlantis: O Retorno de Milo (2003)" tvg-logo="http://4f.rs:80/images/c2a454df2f3bc2db0868a04d14ed8d79.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Atlantis: O Retorno de Milo (2003)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atleta A (2020)" tvg-logo="http://4f.rs:80/images/183a301c9aa74843603b432c9ed3cf91.jpg" group-title="FILMES | DOCUMENTARIOS",Atleta A (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ato de Coragem (2012)" tvg-logo="http://4f.rs:80/images/2658990a6ef0f3b26e5dc24e59cc6239.jpg" group-title="FILMES | GUERRA",Ato de Coragem (2012)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atos de Violência (2018)" tvg-logo="http://4f.rs:80/images/349a4dfecdaa15775295c24e928bf494.jpg" group-title="FILMES | AÇÃO E AVENTURA",Atos de Violência (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atos Proibidos de Amor e Vingança (1979)" tvg-logo="http://4f.rs:80/images/959c9dad58ce462891b04a895d7915af.jpg" group-title="FILMES | NACIONAL",Atos Proibidos de Amor e Vingança (1979)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Através da Minha Janela (2022)" tvg-logo="http://4f.rs:80/images/571e6829d3bc5b1d46e7f848eefa7753.jpg" group-title="FILMES | LANÇAMENTOS",Através da Minha Janela (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Através Da Sombra (2015)" tvg-logo="http://4f.rs:80/images/98f9bbe9fd44a94c292b34b2c6a5c68a.jpg" group-title="FILMES | NACIONAL",Através Da Sombra (2015)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atração de Risco (2020)" tvg-logo="http://4f.rs:80/images/9cce81ec13217230f88154c485a22109.jpg" group-title="FILMES | AÇÃO E AVENTURA",Atração de Risco (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atração Perigosa (2010)" tvg-logo="http://4f.rs:80/images/b2558edf01423e8cd46f43d5d60354d7.jpg" group-title="FILMES | CRIME",Atração Perigosa (2010)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atraídas Pelo Perigo (2001)" tvg-logo="http://4f.rs:80/images/424dd9da73e24ce8401805a587049da8.jpg" group-title="FILMES | COMEDIA",Atraídas Pelo Perigo (2001)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atrás da Linha: Fuga para Dunkirk (2020)" tvg-logo="http://4f.rs:80/images/87236d87137b6b47bb77a8ff739aa4c1.jpg" group-title="FILMES | AÇÃO E AVENTURA",Atrás da Linha: Fuga para Dunkirk (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/14999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atrás da Linha: Fuga para Dunkirk (2020)" tvg-logo="http://4f.rs:80/images/87236d87137b6b47bb77a8ff739aa4c1.jpg" group-title="FILMES | GUERRA",Atrás da Linha: Fuga para Dunkirk (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atrás das Linhas Inimigas (2001)" tvg-logo="http://4f.rs:80/images/34ab86fb106a6e740471621e199a056b.jpg" group-title="FILMES | COLETÂNEAS",Atrás das Linhas Inimigas (2001)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atrás das Linhas Inimigas 2: O Eixo do Mal (2006)" tvg-logo="http://4f.rs:80/images/9838c70f09bd937e00954509afcc3dec.jpg" group-title="FILMES | COLETÂNEAS",Atrás das Linhas Inimigas 2: O Eixo do Mal (2006)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atrás das Linhas Inimigas 3: Operação Colômbia (2009)" tvg-logo="http://4f.rs:80/images/8ca96cdee804d22c29552c72194aa85a.jpg" group-title="FILMES | COLETÂNEAS",Atrás das Linhas Inimigas 3: Operação Colômbia (2009)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atrás das Linhas Inimigas 4: Missão África (2014)" tvg-logo="http://4f.rs:80/images/721a872fd1534ff7d87861d7714553e6.jpg" group-title="FILMES | COLETÂNEAS",Atrás das Linhas Inimigas 4: Missão África (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ATTRACTHA" tvg-logo="http://4f.rs:80/images/3bc074dce4a4a61bcf9afdad082651cf.jpg" group-title="SHOWS | INTERNACIONAIS",ATTRACTHA
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attraction 2: A Invasão (2020)" tvg-logo="http://4f.rs:80/images/5e7c8580b0f315364d9e26a525ac055a.jpg" group-title="FILMES | FICÇÃO E FANTASIA",Attraction 2: A Invasão (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até a Morte: Sobreviver é a Melhor Vingança (2021)" tvg-logo="http://4f.rs:80/images/e8b7aa8ac63d1cb68c34a5d1d524d591.jpg" group-title="FILMES | TERROR",Até a Morte: Sobreviver é a Melhor Vingança (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até a Próxima Vez (2022)" tvg-logo="http://4f.rs:80/images/7880acf6bac09ff9e08bdde4edbf9414.jpg" group-title="FILMES | LANÇAMENTOS",Até a Próxima Vez (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até as Últimas Consequências (1996)" tvg-logo="http://4f.rs:80/images/5a1e106a1898421e3d64c01234dc9e57.jpg" group-title="FILMES | CRIME",Até as Últimas Consequências (1996)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Céu (2020)" tvg-logo="http://4f.rs:80/images/f4d842f0ee4aec49a8875373925cda77.jpg" group-title="FILMES | AÇÃO E AVENTURA",Até o Céu (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Céu (2020)" tvg-logo="http://4f.rs:80/images/f4d842f0ee4aec49a8875373925cda77.jpg" group-title="FILMES | POLICIAL",Até o Céu (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Fim (2020)" tvg-logo="http://4f.rs:80/images/56d84fb508a361b64d6d416bec134c27.jpg" group-title="FILMES | LEGENDADOS",Até o Fim (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Fim (2021)" tvg-logo="http://4f.rs:80/images/8a17364e4d24bcb4000ae9f410d115b9.jpg" group-title="FILMES | LEGENDADOS",Até o Fim (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Fim (2021)" tvg-logo="http://4f.rs:80/images/8a17364e4d24bcb4000ae9f410d115b9.jpg" group-title="FILMES | CRIME",Até o Fim (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Final (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e0wgAHmcB2BlNU2lShLdej01EEh.jpg" group-title="FILMES | TERROR",Até o Final (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Limite (2022)" tvg-logo="http://4f.rs:80/images/b325de621ddacce80859b4e3b614b853.jpg" group-title="FILMES | LANÇAMENTOS",Até o Limite (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Limite da Honra (1997)" tvg-logo="http://4f.rs:80/images/44313f6abb82895c6db33f3d63167c87.jpg" group-title="FILMES | AÇÃO E AVENTURA",Até o Limite da Honra (1997)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Limite [L] (2022)" tvg-logo="http://4f.rs:80/images/b325de621ddacce80859b4e3b614b853.jpg" group-title="FILMES | LANÇAMENTOS",Até o Limite [L] (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Último Homem (2016)" tvg-logo="http://4f.rs:80/images/4f0786cb8619b570941788db747dc0fd.jpg" group-title="FILMES | GUERRA",Até o Último Homem (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até os Ossos (2022)" tvg-logo="http://4f.rs:80/images/625cd381d5d08746b920be839f9a0b10.jpg" group-title="FILMES | LANÇAMENTOS",Até os Ossos (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até os Ossos Leg (2022)" tvg-logo="http://4f.rs:80/images/625cd381d5d08746b920be839f9a0b10.jpg" group-title="FILMES | LEGENDADOS",Até os Ossos Leg (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até os ratos merecem o Céu (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mHGQgwbunagp0GwvyMJ2QDmkV6d.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Até os ratos merecem o Céu (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até Que A Fuga Os Separe (1999)" tvg-logo="http://4f.rs:80/images/cd564c78efb81b91fb18845ed0d66497.jpg" group-title="FILMES | COMEDIA",Até Que A Fuga Os Separe (1999)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até que a Sorte nos Separe (2012)" tvg-logo="http://4f.rs:80/images/c8f40e5dcd011ecf2737c3a590f8cf2e.jpg" group-title="FILMES | COLETÂNEAS",Até que a Sorte nos Separe (2012)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até Que a Sorte nos Separe 2 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eacRaUVzVbG40BbCw3RGhZyejbj.jpg" group-title="FILMES | COLETÂNEAS",Até Que a Sorte nos Separe 2 (2013)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até Que a Sorte nos Separe 3: A Falência Final (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oStp9ynfr1dFKBrOSf7U8QYocgR.jpg" group-title="FILMES | COLETÂNEAS",Até Que a Sorte nos Separe 3: A Falência Final (2015)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até Que Enfim é Sexta-feira (1978)" tvg-logo="http://4f.rs:80/images/0eea2c4256f1ba2d1c9520b7be7eacde.jpg" group-title="FILMES | COMEDIA",Até Que Enfim é Sexta-feira (1978)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até que o Casamento nos Separe (2017)" tvg-logo="http://4f.rs:80/images/92503b89e3d3829bec3cbc672ce38e61.jpg" group-title="FILMES | MARVEL - DC - HEROIS",Até que o Casamento nos Separe (2017)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atômica (2017)" tvg-logo="http://4f.rs:80/images/924413879be0a7987a5a13c21e60b1bb.jpg" group-title="FILMES | AÇÃO E AVENTURA",Atômica (2017)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Audible (2021)" tvg-logo="http://4f.rs:80/images/e7974e7af3404675893f3c4631210499.jpg" group-title="FILMES | LEGENDADOS",Audible (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Autópsia de um Crime (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ph6DHrAxbB1znMm53BrKKzwiQf9.jpg" group-title="FILMES | TERROR",Autópsia de um Crime (2008)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ava (2020)" tvg-logo="http://4f.rs:80/images/3d297c30801840de8eee175c47ae77de.jpg" group-title="FILMES | AÇÃO E AVENTURA",Ava (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ava (2020)" tvg-logo="http://4f.rs:80/images/3d297c30801840de8eee175c47ae77de.jpg" group-title="FILMES | CRIME",Ava (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar (2009)" tvg-logo="http://4f.rs:80/images/761d527027369df4ac7f2e9b280a67fa.jpg" group-title="FILMES | FICÇÃO E FANTASIA",Avatar (2009)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Mergulho Profundo - Edição Especial de 20/20 (2022)" tvg-logo="http://4f.rs:80/images/840987ba93adf1272a0e878ce5f36214.jpg" group-title="FILMES | DOCUMENTARIOS",Avatar: Mergulho Profundo - Edição Especial de 20/20 (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: O Caminho da Água LEG (2022)" tvg-logo="http://4f.rs:80/images/abb8d10bd311574a27f0993760995564.jpg" group-title="FILMES | LEGENDADOS",Avatar: O Caminho da Água LEG (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: O Caminho da Água [CAM] (2022)" tvg-logo="http://4f.rs:80/images/abb8d10bd311574a27f0993760995564.jpg" group-title="FILMES | LANÇAMENTOS",Avatar: O Caminho da Água [CAM] (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventura em Duas Rodas (2019)" tvg-logo="http://4f.rs:80/images/ee9bbdccf85e56c4e21912906481f126.jpg" group-title="FILMES | AÇÃO E AVENTURA",Aventura em Duas Rodas (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventura Perigosa (2016)" tvg-logo="http://4f.rs:80/images/cac44ed0fde4e3a70e2d0dbe8e014a1f.jpg" group-title="FILMES | CRIME",Aventura Perigosa (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventuras de Betty (2020)" tvg-logo="http://4f.rs:80/images/9de7bf107df141e23fe5930a8aedb541.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Aventuras de Betty (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventuras de Betty (2020)" tvg-logo="http://4f.rs:80/images/9de7bf107df141e23fe5930a8aedb541.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Aventuras de Betty (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventuras de Betty (2020)" tvg-logo="http://4f.rs:80/images/9de7bf107df141e23fe5930a8aedb541.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Aventuras de Betty (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventuras no Fundo do Mar (2018)" tvg-logo="http://4f.rs:80/images/a5547db6e5c7adda6b0bc867c859a00d.jpg" group-title="FILMES | DOCUMENTARIOS",Aventuras no Fundo do Mar (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg" group-title="FILMES | AÇÃO E AVENTURA",Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avioes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifZo7VdQ8WCjAh60LnwSkUf3TZE.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Avioes
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aviso de Tempestade (2007)" tvg-logo="http://4f.rs:80/images/4ec25cf3e770d73c8f5fcc53f72582b2.jpg" group-title="FILMES | TERROR",Aviso de Tempestade (2007)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aviões 2: Heróis do Fogo ao Resgate (2014)" tvg-logo="http://4f.rs:80/images/280f9b369f5b884e2ab1fc4d4fcb23e4.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Aviões 2: Heróis do Fogo ao Resgate (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Awake (2021)" tvg-logo="http://4f.rs:80/images/c34255630831b286b9ee3bbecb6c587f.jpg" group-title="FILMES | AÇÃO E AVENTURA",Awake (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Awake: A Vida Por um Fio (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vLNJy3OHyjlbdpBxPAbjpRU0Gsy.jpg" group-title="FILMES | SUSPENSE",Awake: A Vida Por um Fio (2007)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Axel e os Meninos do Espaço (2017)" tvg-logo="http://4f.rs:80/images/136c16f72e1eede2e82740b35df605c1.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Axel e os Meninos do Espaço (2017)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Axé: Canto do Povo de um Lugar (2017)" tvg-logo="http://4f.rs:80/images/57e21302c4541e1f2346f03bee405fd3.jpg" group-title="FILMES | NACIONAL",Axé: Canto do Povo de um Lugar (2017)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aya e a Bruxa (2021)" tvg-logo="http://4f.rs:80/images/946d451ada2999560d42933a04be577e.jpg" group-title="FILMES | LEGENDADOS",Aya e a Bruxa (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ayar (2021)" tvg-logo="http://4f.rs:80/images/d0dd5617fa414ba911b06aa02d2ac33b.jpg" group-title="FILMES | LEGENDADOS",Ayar (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Azor (2021)" tvg-logo="http://4f.rs:80/images/c69f18c40ebf45dafa2dc1a1828ef683.jpg" group-title="FILMES | LEGENDADOS",Azor (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Azul É A Cor Mais Quente [L] (2013)" tvg-logo="http://4f.rs:80/images/67e769fd6325c5ba944ea0a67e88f484.jpg" group-title="FILMES | LEGENDADOS",Azul É A Cor Mais Quente [L] (2013)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Azumi (2003)" tvg-logo="http://4f.rs:80/images/5e7f09c4e47035e80a4975056ec7cb9a.jpg" group-title="FILMES | AÇÃO E AVENTURA",Azumi (2003)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Azumi 2 (2005)" tvg-logo="http://4f.rs:80/images/c7a1f41f59a3acf4bf8f961935ff663b.jpg" group-title="FILMES | AÇÃO E AVENTURA",Azumi 2 (2005)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aí Você Apareceu (2021)" tvg-logo="http://4f.rs:80/images/6b176c1f04f750185b86c1a7481f3d27.jpg" group-title="FILMES | COMEDIA",Aí Você Apareceu (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="B.O. (2019)" tvg-logo="http://4f.rs:80/images/8657d1e5c21d8c8ae7b51ac721714c07.jpg" group-title="FILMES | COMEDIA",B.O. (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baahubali 2: A Conclusão LEG (2017)" tvg-logo="http://4f.rs:80/images/da0950a50a6cdaca55fe028f4a490adc.jpg" group-title="FILMES | AÇÃO E AVENTURA",Baahubali 2: A Conclusão LEG (2017)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baahubali: O Início (2015)" tvg-logo="http://4f.rs:80/images/fa681510e2627288efc0b5a6fbbc1051.jpg" group-title="FILMES | AÇÃO E AVENTURA",Baahubali: O Início (2015)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babe, o Porquinho Atrapalhado (1995)" tvg-logo="http://4f.rs:80/images/ed52052c56efd8597f83732baaec8add.jpg" group-title="FILMES | AÇÃO E AVENTURA",Babe, o Porquinho Atrapalhado (1995)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babe, o Porquinho Atrapalhado (1995)" tvg-logo="http://4f.rs:80/images/ed52052c56efd8597f83732baaec8add.jpg" group-title="FILMES | NOSTALGIA - CLÁSSICOS",Babe, o Porquinho Atrapalhado (1995)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babe, o Porquinho Atrapalhado (1995)" tvg-logo="http://4f.rs:80/images/ed52052c56efd8597f83732baaec8add.jpg" group-title="FILMES | COMEDIA",Babe, o Porquinho Atrapalhado (1995)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babe, o Porquinho Atrapalhado na Cidade (1998)" tvg-logo="http://4f.rs:80/images/e73d4942ed934880f916ad7ddabc0733.jpg" group-title="FILMES | AÇÃO E AVENTURA",Babe, o Porquinho Atrapalhado na Cidade (1998)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babe, o Porquinho Atrapalhado na Cidade (1998)" tvg-logo="http://4f.rs:80/images/e73d4942ed934880f916ad7ddabc0733.jpg" group-title="FILMES | NOSTALGIA - CLÁSSICOS",Babe, o Porquinho Atrapalhado na Cidade (1998)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babe, o Porquinho Atrapalhado na Cidade (1998)" tvg-logo="http://4f.rs:80/images/e73d4942ed934880f916ad7ddabc0733.jpg" group-title="FILMES | COMEDIA",Babe, o Porquinho Atrapalhado na Cidade (1998)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babilônia (CAM) (2022)" tvg-logo="http://4f.rs:80/images/8f614bee20726f0d8ddd5e1ef26e7271.jpg" group-title="FILMES | CINEMA",Babilônia (CAM) (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babá Fora de Controle: Missão Brasil (2015)" tvg-logo="http://4f.rs:80/images/0aea4d64430719e8c644bf171eee8504.jpg" group-title="FILMES | COMEDIA",Babá Fora de Controle: Missão Brasil (2015)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BAC Nord: Sob Pressão (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg" group-title="FILMES | SUSPENSE",BAC Nord: Sob Pressão (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bacurau (2019)" tvg-logo="http://4f.rs:80/images/413d56e23f6519366739425a97f810a8.jpg" group-title="FILMES | FAROESTE",Bacurau (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Ass 2: Ação em Dobro (2014)" tvg-logo="http://4f.rs:80/images/aaa0b8471511e537881c2c587232f0d7.jpg" group-title="FILMES | COLETÂNEAS",Bad Ass 2: Ação em Dobro (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Ass 3: Dois Durões em Bayou (2015)" tvg-logo="http://4f.rs:80/images/1060c30d4b4126f703ac4d9d0fa4965a.jpg" group-title="FILMES | COLETÂNEAS",Bad Ass 3: Dois Durões em Bayou (2015)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Ass: Acima da Lei (2012)" tvg-logo="http://4f.rs:80/images/f845c8814972a9577d7c17e0ee835728.jpg" group-title="FILMES | COLETÂNEAS",Bad Ass: Acima da Lei (2012)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys Para Sempre (2020)" tvg-logo="http://4f.rs:80/images/8c415f52cf1635c7ebafe694b8b10bc2.jpg" group-title="FILMES | COLETÂNEAS",Bad Boys Para Sempre (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Candy (2021)" tvg-logo="http://4f.rs:80/images/3f3a301b119b66b266c1954b07013b22.jpg" group-title="FILMES | LEGENDADOS",Bad Candy (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Hair: A Maldição (2021)" tvg-logo="http://4f.rs:80/images/bea4d2871df598e7f03798a5c7cce2c6.jpg" group-title="FILMES | TERROR",Bad Hair: A Maldição (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Roads (2021)" tvg-logo="http://4f.rs:80/images/73c2b43cf36e9842abd70ac3e3dae425.jpg" group-title="FILMES | LEGENDADOS",Bad Roads (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Trip (2020)" tvg-logo="http://4f.rs:80/images/d09ed74bee8cf5549e2f38f931432db4.jpg" group-title="FILMES | COMEDIA",Bad Trip (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baile da Morte (2020)" tvg-logo="http://4f.rs:80/images/b17d093535beff5bb4c1c03f83aea06a.jpg" group-title="FILMES | MISTÉRIO",Baile da Morte (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida (2020)" tvg-logo="http://4f.rs:80/images/e1ed80f2b8736595a5008d260cc48eea.jpg" group-title="FILMES | AÇÃO E AVENTURA",Bala Perdida (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida 2 (2022)" tvg-logo="http://4f.rs:80/images/e8b0c6531d4de2f8ba1dc219e08c04df.jpg" group-title="FILMES | AÇÃO E AVENTURA",Bala Perdida 2 (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balto (1995)" tvg-logo="http://4f.rs:80/images/d9d8213057968e85f521873a7a59a3bb.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Balto (1995)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balto 3: Nas Asas do Destino (2004)" tvg-logo="http://4f.rs:80/images/baa6c26310cd5456b77596f83bc583b6.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Balto 3: Nas Asas do Destino (2004)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balto2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FILMES | ANIMAÇÃO E INFANTIL",Balto2
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bambi (1942)" tvg-logo="http://4f.rs:80/images/d26ba153a3c494d5ed9c5af93d320f7a.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Bambi (1942)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bambi2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FILMES | ANIMAÇÃO E INFANTIL",Bambi2
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banana Split (2018)" tvg-logo="http://4f.rs:80/images/86817515a5b822045cfb1a0dfe1d68b6.jpg" group-title="FILMES | COMEDIA",Banana Split (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banana Splits - O Filme (2019)" tvg-logo="http://4f.rs:80/images/1d1ba16aa6b9a3a065a4bbb8bff04edf.jpg" group-title="FILMES | COMEDIA",Banana Splits - O Filme (2019)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bandidas (2006)" tvg-logo="http://4f.rs:80/images/17fc5e362c26e9d80d71dc94dd05f355.jpg" group-title="FILMES | AÇÃO E AVENTURA",Bandidas (2006)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bandit (2022)" tvg-logo="http://4f.rs:80/images/a9127f2331ee57c8d2854783d450dc8c.jpg" group-title="FILMES | LANÇAMENTOS",Bandit (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banha (2020)" tvg-logo="http://4f.rs:80/images/a9127f2331ee57c8d2854783d450dc8c.jpg" group-title="FILMES | LEGENDADOS",Banha (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banho de Sangue (2018)" tvg-logo="http://4f.rs:80/images/31b757aa22b01c1d0be241212d78fe5b.jpg" group-title="FILMES | AÇÃO E AVENTURA",Banho de Sangue (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banho de Sangue (2018)" tvg-logo="http://4f.rs:80/images/31b757aa22b01c1d0be241212d78fe5b.jpg" group-title="FILMES | MISTÉRIO",Banho de Sangue (2018)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banquete no Inferno (2005)" tvg-logo="http://4f.rs:80/images/294523b7422e273382ba972b9aa78239.jpg" group-title="FILMES | TERROR",Banquete no Inferno (2005)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banzé no Oeste (1974)" tvg-logo="http://4f.rs:80/images/8865cfbdbd7df6ad0b0054b097a51ef4.jpg" group-title="FILMES | FAROESTE",Banzé no Oeste (1974)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bar Doce Lar (2021)" tvg-logo="http://4f.rs:80/images/b77825fc11a9176c84cceab8d1f5f949.jpg" group-title="FILMES | COMEDIA",Bar Doce Lar (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barba, Cabelo & Bigode (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jvLZHjiJRj2uefPoBlBaF0ohxsL.jpg" group-title="FILMES | LANÇAMENTOS",Barba, Cabelo & Bigode (2022)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie & Chelsea: O Aniversário Perdido (2021)" tvg-logo="http://4f.rs:80/images/bad56d98e61701feb1eed2dccf3060c0.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie & Chelsea: O Aniversário Perdido (2021)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie - A Estrela do Rock (1987)" tvg-logo="http://4f.rs:80/images/efc4df7d17fbd0a733c4b74bbcf318e5.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie - A Estrela do Rock (1987)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie   A Princesa e a Pop Star" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie   A Princesa e a Pop Star
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Aventura da Princesa (2020)" tvg-logo="http://4f.rs:80/images/30b7716bc69509595ee4638112fe9664.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie Aventura da Princesa (2020)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie como Rapunzel (2002)" tvg-logo="http://4f.rs:80/images/2b4c3f0e89d9969adab7e97e180f911a.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie como Rapunzel (2002)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Dreamtopia: Festival da Alegria (2017)" tvg-logo="http://4f.rs:80/images/00cc29e5f1eb1f079dd1ed16873645c6.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie Dreamtopia: Festival da Alegria (2017)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e a Magia de Aladus (2005)" tvg-logo="http://4f.rs:80/images/5a49bbc1df702d1acb07f69ad05a416b.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e a Magia de Aladus (2005)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e as Agentes Secretas (2016)" tvg-logo="http://4f.rs:80/images/ac06fa5723382f431c6d9028cdd333fd.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e as Agentes Secretas (2016)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e as Sapatilhas Mágicas (2013)" tvg-logo="http://4f.rs:80/images/a19e5c4c49f6f9678896c33eee19a4c0.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e as Sapatilhas Mágicas (2013)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e as Sapatilhas Mágicas (2013)" tvg-logo="http://4f.rs:80/images/a19e5c4c49f6f9678896c33eee19a4c0.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e as Sapatilhas Mágicas (2013)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e As Três Mosqueteiras (2009)" tvg-logo="http://4f.rs:80/images/d5341848b28f1ce085f82189daab7464.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e As Três Mosqueteiras (2009)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e As Três Mosqueteiras (2009)" tvg-logo="http://4f.rs:80/images/d5341848b28f1ce085f82189daab7464.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e As Três Mosqueteiras (2009)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e o Castelo de Diamante (2008)" tvg-logo="http://4f.rs:80/images/1d6615bb43659b644eb29be50c943e3d.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e o Castelo de Diamante (2008)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e o Castelo de Diamante (2008)" tvg-logo="http://4f.rs:80/images/1d6615bb43659b644eb29be50c943e3d.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e o Castelo de Diamante (2008)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e o Portal Secreto (2014)" tvg-logo="http://4f.rs:80/images/e0fa29a367dd0a0fd2a71415ffee8f4e.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e o Portal Secreto (2014)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e O Segredo das Fadas (2011)" tvg-logo="http://4f.rs:80/images/e0fa29a367dd0a0fd2a71415ffee8f4e.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e O Segredo das Fadas (2011)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e os Golfinhos Mágicos (2017)" tvg-logo="http://4f.rs:80/images/3ee6f67fbaffb1bbc1185080891af41e.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e os Golfinhos Mágicos (2017)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e Suas Irmãs em Uma Aventura de Cachorrinhos (2015)" tvg-logo="http://4f.rs:80/images/5a0547d926f0a8670f9fee83bce7c0a6.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie e Suas Irmãs em Uma Aventura de Cachorrinhos (2015)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie em 12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1WbtY6ThUE2P7riFqmPIYCnUdi.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie em 12
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie em a Pequena Polegar (2009)" tvg-logo="http://4f.rs:80/images/89ca54d7fe6f417b99014f61226b21c0.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie em a Pequena Polegar (2009)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie em a Princesa da Ilha (2007)" tvg-logo="http://4f.rs:80/images/0f0a286733a0dcfb54fa8846d3d665a3.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie em a Princesa da Ilha (2007)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Em Um Mundo de Video Game (2017)" tvg-logo="http://4f.rs:80/images/cc74d2ab10fd154b94f8c32986c8013e.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie Em Um Mundo de Video Game (2017)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie  Moda e Magia (2010)" tvg-logo="http://4f.rs:80/images/dfbdc47617a4cc6990f848c3288320e4.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie  Moda e Magia (2010)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie  Moda e Magia (2010)" tvg-logo="http://4f.rs:80/images/dfbdc47617a4cc6990f848c3288320e4.jpg" group-title="FILMES | ANIMAÇÃO E INFANTIL",Barbie  Moda e Magia (2010)
+http://router91.syscdn.xyz:8080/movie/xs6g7yvt6li8/g4uboz9aldtf/15122.mp4
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MORENA CAMPO GRANDE FHD
 http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/397
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MORENA CAMPO GRANDE HD
