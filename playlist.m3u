@@ -1,0 +1,492 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/bein.com.xml.gz, https://iptv-org.github.io/epg/guides/ar/i24news.tv.xml.gz, https://iptv-org.github.io/epg/guides/ar/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/az/tv.mail.ru.xml.gz, https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml.gz, https://iptv-org.github.io/epg/guides/bg/tvprofil.com.xml.gz, https://iptv-org.github.io/epg/guides/bn/sky.com.xml.gz, https://iptv-org.github.io/epg/guides/bs/mtel.ba.xml.gz, https://iptv-org.github.io/epg/guides/ca/andorradifusio.ad.xml.gz, https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml.gz, https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml.gz, https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml.gz, https://iptv-org.github.io/epg/guides/de/magentatv.at.xml.gz, https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/de/tvheute.at.xml.gz, https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml.gz, https://iptv-org.github.io/epg/guides/el/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/en/abc.net.au.xml.gz, https://iptv-org.github.io/epg/guides/en/arianaafgtv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/arianatelevision.com.xml.gz, https://iptv-org.github.io/epg/guides/en/bein.com.xml.gz, https://iptv-org.github.io/epg/guides/en/bt.com.xml.gz, https://iptv-org.github.io/epg/guides/en/directv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/dishtv.in.xml.gz, https://iptv-org.github.io/epg/guides/en/dstv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml.gz, https://iptv-org.github.io/epg/guides/en/flixed.io.xml.gz, https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml.gz, https://iptv-org.github.io/epg/guides/en/m.tv.sms.cz.xml.gz, https://iptv-org.github.io/epg/guides/en/melita.com.xml.gz, https://iptv-org.github.io/epg/guides/en/mewatch.sg.xml.gz, https://iptv-org.github.io/epg/guides/en/mytvsuper.com.xml.gz, https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml.gz, https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz, https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz, https://iptv-org.github.io/epg/guides/en/rev.bs.xml.gz, https://iptv-org.github.io/epg/guides/en/singtel.com.xml.gz, https://iptv-org.github.io/epg/guides/en/sky.com.xml.gz, https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml.gz, https://iptv-org.github.io/epg/guides/en/startimestv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/tapdmv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/en/tv.post.lu.xml.gz, https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz, https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml.gz, https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml.gz, https://iptv-org.github.io/epg/guides/en/watchyour.tv.xml.gz, https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz, https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml.gz, https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml.gz, https://iptv-org.github.io/epg/guides/es/compulms.com.xml.gz, https://iptv-org.github.io/epg/guides/es/comteco.com.bo.xml.gz, https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml.gz, https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml.gz, https://iptv-org.github.io/epg/guides/es/directv.com.xml.gz, https://iptv-org.github.io/epg/guides/es/flixed.io.xml.gz, https://iptv-org.github.io/epg/guides/es/gatotv.com.xml.gz, https://iptv-org.github.io/epg/guides/es/mi.tv.xml.gz, https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml.gz, https://iptv-org.github.io/epg/guides/es/ontvtonight.com.xml.gz, https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml.gz, https://iptv-org.github.io/epg/guides/es/reportv.com.ar.xml.gz, https://iptv-org.github.io/epg/guides/es/siba.com.co.xml.gz, https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml.gz, https://iptv-org.github.io/epg/guides/es/tvpassport.com.xml.gz, https://iptv-org.github.io/epg/guides/et/teliatv.ee.xml.gz, https://iptv-org.github.io/epg/guides/fi/telkku.com.xml.gz, https://iptv-org.github.io/epg/guides/fi/telsu.fi.xml.gz, https://iptv-org.github.io/epg/guides/fo/kvf.fo.xml.gz, https://iptv-org.github.io/epg/guides/fr/canalplus-caraibes.com.xml.gz, https://iptv-org.github.io/epg/guides/fr/canalplus.com.xml.gz, https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.xml.gz, https://iptv-org.github.io/epg/guides/fr/mon-programme-tv.be.xml.gz, https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml.gz, https://iptv-org.github.io/epg/guides/fr/programme-tv.vini.pf.xml.gz, https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.xml.gz, https://iptv-org.github.io/epg/guides/fr/telenet.tv.xml.gz, https://iptv-org.github.io/epg/guides/fr/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/fr/tvhebdo.com.xml.gz, https://iptv-org.github.io/epg/guides/hi/sky.com.xml.gz, https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.xml.gz, https://iptv-org.github.io/epg/guides/hr/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml.gz, https://iptv-org.github.io/epg/guides/hu/musor.tv.xml.gz, https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml.gz, https://iptv-org.github.io/epg/guides/id/indihometv.com.xml.gz, https://iptv-org.github.io/epg/guides/id/mncvision.id.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.xml.gz, https://iptv-org.github.io/epg/guides/is/ruv.is.xml.gz, https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml.gz, https://iptv-org.github.io/epg/guides/it/superguidatv.it.xml.gz, https://iptv-org.github.io/epg/guides/it/tivu.tv.xml.gz, https://iptv-org.github.io/epg/guides/it/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml.gz, https://iptv-org.github.io/epg/guides/ka/magticom.ge.xml.gz, https://iptv-org.github.io/epg/guides/ko/wavve.com.xml.gz, https://iptv-org.github.io/epg/guides/ku/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/lb/tv.post.lu.xml.gz, https://iptv-org.github.io/epg/guides/lt/cgates.lt.xml.gz, https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.xml.gz, https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml.gz, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml.gz, https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/my/unifi.com.my.xml.gz, https://iptv-org.github.io/epg/guides/nl/delta.nl.xml.gz, https://iptv-org.github.io/epg/guides/nl/telenet.tv.xml.gz, https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.xml.gz, https://iptv-org.github.io/epg/guides/no/allente.se.xml.gz, https://iptv-org.github.io/epg/guides/no/frikanalen.no.xml.gz, https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml.gz, https://iptv-org.github.io/epg/guides/pt/meo.pt.xml.gz, https://iptv-org.github.io/epg/guides/pt/mi.tv.xml.gz, https://iptv-org.github.io/epg/guides/pt/nos.pt.xml.gz, https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml.gz, https://iptv-org.github.io/epg/guides/ro/programetv.ro.xml.gz, https://iptv-org.github.io/epg/guides/ru/9tv.co.il.xml.gz, https://iptv-org.github.io/epg/guides/ru/magticom.ge.xml.gz, https://iptv-org.github.io/epg/guides/ru/teliatv.ee.xml.gz, https://iptv-org.github.io/epg/guides/ru/tv.mail.ru.xml.gz, https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml.gz, https://iptv-org.github.io/epg/guides/sk/horizon.tv.xml.gz, https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml.gz, https://iptv-org.github.io/epg/guides/sq/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/sr/mts.rs.xml.gz, https://iptv-org.github.io/epg/guides/sv/tv.nu.xml.gz, https://iptv-org.github.io/epg/guides/sv/tv24.se.xml.gz, https://iptv-org.github.io/epg/guides/th/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml.gz, https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml.gz, https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.xml.gz, https://iptv-org.github.io/epg/guides/tr/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml.gz, https://iptv-org.github.io/epg/guides/tr/ziggogo.tv.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ANAPOLIS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA ANAPOLIS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/243
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ANAPOLIS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA ANAPOLIS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/244
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA CATALAO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA CATALAO FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/245
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA CATALAO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA CATALAO HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/246
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ITUMBIARA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA ITUMBIARA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/247
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ITUMBIARA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO ANHANGUERA ITUMBIARA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/248
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BAHIA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/249
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BAHIA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/250
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BAHIA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/251
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BELEM FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/252
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BELEM HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/253
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BELEM SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/254
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BOA VISTA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/255
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BOA VISTA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/256
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BOA VISTA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/257
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BRASILIA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/258
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO BRASILIA FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/259
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BRASILIA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/260
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO BRASILIA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/261
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV CAMPINAS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/262
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV CAMPINAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/263
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV CAMPINAS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/264
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV RIBEIRÃO PRETO FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/265
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV RIBEIRÃO PRETO HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/266
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/267
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV SAO CARLOS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/268
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV SUL DE MINAS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/269
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO EPTV SUL DE MINAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/270
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO FLORIANOPOLIS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/271
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO FLORIANOPOLIS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/272
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO FLORIANOPOLIS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/273
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA  ES HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO GAZETA VITORIA  ES HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/274
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA  ES SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO GAZETA VITORIA  ES SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/275
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA ES FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO GAZETA VITORIA ES FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/276
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/277
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO DIVINÓPOLIS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTEGRAÇÃO DIVINÓPOLIS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/278
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTEGRAÇÃO MG FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/279
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTEGRAÇÃO MG HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/280
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV ALTO LITORAL HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/281
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV ALTO LITORAL SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/282
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV CABUGI FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/283
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV CABUGI HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/284
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV CABUGI SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/285
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV DOS VALES HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/286
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV GRANDE MINAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/287
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV SERRA MAR FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/288
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER TV SERRA MAR HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/289
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER VALE MG FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/290
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO INTER VALE MG HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/291
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOAÇABA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JOAÇABA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/292
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOAÇABA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JOAÇABA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/293
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUAZEIRO BAHIA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JUAZEIRO BAHIA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/294
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUAZEIRO BAHIA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JUAZEIRO BAHIA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/295
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JUIZ DE FORA MG FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/296
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JUIZ DE FORA MG HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/297
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO JUIZ DE FORA MG SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/298
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MARANHÃO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MARANHÃO HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/299
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MINAS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/300
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO MINAS FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/301
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MINAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/302
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MINAS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/303
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MOGI DAS CRUZES FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MOGI DAS CRUZES FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/304
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MOGI DAS CRUZES HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MOGI DAS CRUZES HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/305
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MONTES CLAROS MG FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MONTES CLAROS MG FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/306
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MONTES CLAROS MG HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO MONTES CLAROS MG HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/307
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NEWS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/308
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO NEWS FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/309
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NEWS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/310
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NEWS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/311
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NORDESTE FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/312
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NORDESTE HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/313
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NORDESTE SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/314
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC SANTA CATARINA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC SANTA CATARINA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/315
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV BLUMENAU FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/316
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAL SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV BLUMENAL SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/317
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV BLUMENAU HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/318
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV CHAPECO FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/319
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV CHAPECO HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/320
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV CHAPECO SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/321
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CRICIUMA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV CRICIUMA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/322
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV JOINVILLE FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/323
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO NSC TV JOINVILLE HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/324
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PARAIBA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO PARAIBA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/325
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRUDENTE SP FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO PRESIDENTE PRUDENTE SP FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/326
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRUDENTE SP HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO PRESIDENTE PRUDENTE SP HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/327
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS PORTO ALEGRE FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/328
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS PORTO ALEGRE FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/329
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS PORTO ALEGRE HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/330
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS PORTO ALEGRE SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/331
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV CAXIAS DO SUL FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/332
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/333
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV CAXIAS DO SUL SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/334
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PASSO FUNDO FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/335
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PASSO FUNDO HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/336
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PASSO FUNDO SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/337
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PELOTAS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/338
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PELOTAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/339
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV PELOTAS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/340
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV SANTA MARIA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV SANTA MARIA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/341
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV SANTA MARIA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RBS TV SANTA MARIA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/342
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RECIFE HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/343
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RECIFE SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/344
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RJ FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/345
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO RJ FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/346
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RJ HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/347
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RJ SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/348
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC  TV MARINGA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC  TV MARINGA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/349
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CASCAVEL FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC CASCAVEL FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/350
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CASCAVEL HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC CASCAVEL HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/351
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC CURITIBA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/352
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC CURITIBA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/353
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC CURITIBA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/354
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC FOZ DO IGUACU FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/355
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC FOZ DO IGUACU HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/356
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAVAI FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC PARANAVAI FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/357
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC PARANAVAI HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/358
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PONTA GROSSA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC PONTA GROSSA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/359
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV MARINGA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO RPC TV MARINGA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/360
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SERGIPE FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/361
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SERGIPE HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/362
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SJRP HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/363
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SJRP SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/364
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SP FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/365
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD (H265)" tvg-logo="" group-title="Canais • GLOBO",GLOBO SP FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/366
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SP HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/367
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO SP SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/368
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV ANHANGUERA GOIANIA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/369
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV ANHANGUERA GOIANIA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/370
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV ANHANGUERA GOIANIA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/371
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV ASA BRANCA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/372
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV ASA BRANCA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/373
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CABO BRANCO FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/374
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CABO BRANCO HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/375
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CENTRO AMERICA CUIABA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/376
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CENTRO AMERICA CUIABA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/377
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CENTRO AMERICA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/378
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CLUBE TERESINA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/379
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CLUBE TERESINA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/380
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV CLUBE TERESINA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/381
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO FORTALEZA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV DIARIO FORTALEZA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/382
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO FORTALEZA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV DIARIO FORTALEZA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/383
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV GAZETA DE ALAGOAS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/384
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV GAZETA DE ALAGOAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/385
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV GAZETA DE ALAGOAS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/386
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV GAZETA SUL ES FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/387
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV GAZETA SUL ES HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/388
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO ARAXA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV INTEGRACAO ARAXA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/389
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO ARAXA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV INTEGRACAO ARAXA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/390
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE COCAIS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/391
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE COCAIS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/392
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE COCAIS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/393
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE SAO LUIS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/394
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE SAO LUIS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/395
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MIRANTE SAO LUIS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/396
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MORENA CAMPO GRANDE FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/397
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV MORENA CAMPO GRANDE HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/398
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV REDE AMAZONICA MANAUS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV REDE AMAZONICA MANAUS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/399
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV REDE AMAZONICA MANAUS SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV REDE AMAZONICA MANAUS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/400
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/401
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/402
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/403
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV RIO SUL HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/404
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV RIO SUL SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/405
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV SANTA CRUZ FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/406
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV SANTA CRUZ HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/407
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SUBAE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV SUBAE HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/408
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SUBAE SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV SUBAE SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/409
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TEM BAURU FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/410
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TEM BAURU HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/411
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TEM BAURU SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/412
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM ITAPE FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TEM ITAPE FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/413
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM ITAPE HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TEM ITAPE HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/414
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TEM SOROCABA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/415
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TEM SOROCABA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/416
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TEM SOROCABA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/417
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA FHD (SANTOS)" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TRIBUNA FHD (SANTOS)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/418
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA HD (SANTOS)" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TRIBUNA HD (SANTOS)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/419
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SD (SANTOS)" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV TRIBUNA SD (SANTOS)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/420
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S J CAMPOS FHD" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",GLOBO TV VANGUARDA S J CAMPOS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/421
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S J CAMPOS HD" tvg-logo="" group-title="Canais • GLOBO",GLOBO TV VANGUARDA S J CAMPOS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/422
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S J CAMPOS SD" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",GLOBO TV VANGUARDA S J CAMPOS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/423
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA FHD" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",GLOBO TV VERDES MARES FORTALEZA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/424
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",GLOBO TV VERDES MARES FORTALEZA FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/425
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA HD" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",GLOBO TV VERDES MARES FORTALEZA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/426
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",GLOBO TV VERDES MARES FORTALEZA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/427
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO UBERABA FHD" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",GLOBO UBERABA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/428
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO UBERABA HD" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",GLOBO UBERABA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/429
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Globo RJ - 98.1 FM" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",Rádio Globo RJ - 98.1 FM
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/663
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY+ 01" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",GLOBOPLAY+ 01
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/919
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY+ 02" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="Canais • GLOBO",GLOBOPLAY+ 02
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/920
+#EXTINF:-1 tvg-id="" tvg-name="BAND BAHIA HD" tvg-logo="" group-title=" Canais • BAND",BAND BAHIA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/37
+#EXTINF:-1 tvg-id="" tvg-name="BAND BRASILIA HD" tvg-logo="" group-title=" Canais • BAND",BAND BRASILIA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/38
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD" tvg-logo="" group-title=" Canais • BAND",BAND CAMPINAS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/39
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="" group-title=" Canais • BAND",BAND CAMPINAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/40
+#EXTINF:-1 tvg-id="" tvg-name="BAND CURITIBA FHD" tvg-logo="" group-title=" Canais • BAND",BAND CURITIBA FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/41
+#EXTINF:-1 tvg-id="" tvg-name="BAND CURITIBA HD" tvg-logo="" group-title=" Canais • BAND",BAND CURITIBA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/42
+#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS FHD" tvg-logo="" group-title=" Canais • BAND",BAND MINAS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/43
+#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS HD" tvg-logo="" group-title=" Canais • BAND",BAND MINAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/44
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="" group-title=" Canais • BAND",BAND NEWS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/45
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD (H265)" tvg-logo="" group-title=" Canais • BAND",BAND NEWS FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/46
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="" group-title=" Canais • BAND",BAND NEWS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/47
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD" tvg-logo="" group-title=" Canais • BAND",BAND NEWS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/48
+#EXTINF:-1 tvg-id="" tvg-name="BAND PARANA HD" tvg-logo="" group-title=" Canais • BAND",BAND PARANA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/49
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ FHD" tvg-logo="" group-title=" Canais • BAND",BAND RJ FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/50
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="" group-title=" Canais • BAND",BAND RJ HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/51
+#EXTINF:-1 tvg-id="" tvg-name="BAND RS HD" tvg-logo="" group-title=" Canais • BAND",BAND RS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/52
+#EXTINF:-1 tvg-id="" tvg-name="BAND SERGIPE HD" tvg-logo="" group-title=" Canais • BAND",BAND SERGIPE HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/53
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD" tvg-logo="" group-title=" Canais • BAND",BAND SP FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/54
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD (H265)" tvg-logo="" group-title=" Canais • BAND",BAND SP FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/55
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="" group-title=" Canais • BAND",BAND SP HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/56
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP SD" tvg-logo="" group-title=" Canais • BAND",BAND SP SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/57
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="" group-title=" Canais • BAND",BAND SPORTS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/58
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD (H265)" tvg-logo="" group-title=" Canais • BAND",BAND SPORTS FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/59
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="" group-title=" Canais • BAND",BAND SPORTS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/60
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS SD" tvg-logo="" group-title=" Canais • BAND",BAND SPORTS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/61
+#EXTINF:-1 tvg-id="" tvg-name="BAND TV GOIANIA FHD (H265)" tvg-logo="" group-title=" Canais • BAND",BAND TV GOIANIA FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/62
+#EXTINF:-1 tvg-id="" tvg-name="BAND TV GOIANIA HD" tvg-logo="" group-title=" Canais • BAND",BAND TV GOIANIA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/63
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="" group-title=" Canais • RECORD",RECORD BAHIA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/607
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA SD" tvg-logo="" group-title=" Canais • RECORD",RECORD BAHIA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/608
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="" group-title=" Canais • RECORD",RECORD BRASILIA HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/609
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA SD" tvg-logo="" group-title=" Canais • RECORD",RECORD BRASILIA SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/610
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS FHD" tvg-logo="" group-title=" Canais • RECORD",RECORD CAMPINAS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/611
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS HD" tvg-logo="" group-title=" Canais • RECORD",RECORD CAMPINAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/612
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS FHD (H265)" tvg-logo="" group-title=" Canais • RECORD",RECORD GOIAS FHD (H265)
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/613
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS HD" tvg-logo="" group-title=" Canais • RECORD",RECORD GOIAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/614
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS SD" tvg-logo="" group-title=" Canais • RECORD",RECORD GOIAS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/615
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="" group-title=" Canais • RECORD",RECORD MANAUS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/616
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS SD" tvg-logo="" group-title=" Canais • RECORD",RECORD MANAUS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/617
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS FHD" tvg-logo="" group-title=" Canais • RECORD",RECORD MINAS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/618
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS HD" tvg-logo="" group-title=" Canais • RECORD",RECORD MINAS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/619
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS SD" tvg-logo="" group-title=" Canais • RECORD",RECORD MINAS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/620
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD" tvg-logo="" group-title=" Canais • RECORD",RECORD NEWS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/621
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="" group-title=" Canais • RECORD",RECORD NEWS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/622
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD" tvg-logo="" group-title=" Canais • RECORD",RECORD NEWS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/623
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ FHD" tvg-logo="" group-title=" Canais • RECORD",RECORD RJ FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/624
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="" group-title=" Canais • RECORD",RECORD RJ HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/625
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ SD" tvg-logo="" group-title=" Canais • RECORD",RECORD RJ SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/626
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS FHD" tvg-logo="" group-title=" Canais • RECORD",RECORD RS FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/627
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="" group-title=" Canais • RECORD",RECORD RS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/628
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS SD" tvg-logo="" group-title=" Canais • RECORD",RECORD RS SD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/629
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTOS HD" tvg-logo="" group-title=" Canais • RECORD",RECORD SANTOS HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/630
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SERGIPE HD" tvg-logo="" group-title=" Canais • RECORD",RECORD SERGIPE HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/631
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SJRP HD" tvg-logo="" group-title=" Canais • RECORD",RECORD SJRP HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/632
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP FHD" tvg-logo="" group-title=" Canais • RECORD",RECORD SP FHD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/633
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="" group-title=" Canais • RECORD",RECORD SP HD
+http://router91.syscdn.xyz:8080/xs6g7yvt6li8/g4uboz9aldtf/634
